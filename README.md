@@ -38,7 +38,7 @@ The proposed approach for mass detection and segmentation consists of five main 
   <img src="https://github.com/abdalrhmanu/breast-mass-detection-and-segmentation-using-multi-scale-morphological-sifting-and-kmeans-clustering/blob/main/report/report_images/full-cropped.png?raw=true" alt="LaTeX Image">
 </p>
 
-This approach was implemented and evaluated on the InBreast mammographic dataset, which was able to segment mass lesions from the background accurately with a sensitivity of 76.92%. Various features were extracted from raw images and used in training ucasML tool. ucasML tool was able to provide satisfactory scores for both labels based on the features trained with while facing a high class imbalance. In general, the proposed system achieves promising results in both detection and segmentation of mammogram masses.
+This approach was implemented and evaluated on the InBreast mammographic dataset, which was able to segment mass lesions from the background accurately with a sensitivity of 76.92%. Various features were extracted from raw images and used in training the ucasML tool. ucasML tool was able to provide satisfactory scores for both labels based on the features trained with while facing a high class imbalance. In general, the proposed system achieves promising results in both detection and segmentation of mammogram masses.
 
 ![alt text](https://github.com/abdalrhmanu/breast-mass-detection-and-segmentation-using-multi-scale-morphological-sifting-and-kmeans-clustering/blob/main/report/report_images/combined_froc.jpg?raw=true)
 
