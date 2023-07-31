@@ -2,7 +2,7 @@
 
 ![alt text](https://github.com/abdalrhmanu/mammographic-breast-mass-detection-and-segmentation/blob/main/report/report_images/visualize_segmentation/segmentation_results_cropped.png?raw=true)
 
-Setup Environment Locally
+Setup Environment Local
 ============
 
 To set up a virtual environment, follow the procedure found in <a href="https://github.com/abdalrhmanu/mammogram-mass-detection/blob/main/env.setup.md" target="_blank"> `env.setup.md`</a>.
